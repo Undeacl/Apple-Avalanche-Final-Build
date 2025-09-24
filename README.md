@@ -4,6 +4,10 @@ A simple **typing game** built with Python’s `turtle` graphics. Apples with le
 
 ---
 
+## 💡 Information
+- This game was created as part of a project designed by the PLTW Computer Science pathway
+- The game took about 3 days to complete
+
 ## 📖 How It Works
 - The game generates apples with random letters.
 - Each apple displays a letter (A–Z).
