@@ -33,11 +33,9 @@ def create_apple():
 
         #generates a random number to identify the apple
         number = rand.randint(0, 25)
-
-        #check to see if the number has already been generated
+        
         if number in generated_apple:
-            continue
-            #print(number)
+            number = rand.randint(0, 25)
 
         #number has not been generated, create the apple
         else:
