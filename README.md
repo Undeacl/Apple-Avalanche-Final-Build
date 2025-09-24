@@ -16,3 +16,9 @@ A simple **typing game** built with Python’s `turtle` graphics. Apples with le
 - Randomly generated apples with unique letters.
 - Interactive gameplay using **keyboard input**.
 - Resets automatically once all apples are cleared.
+
+---
+## 🙏 Credits
+- Background image (`background.gif`) – https://my.pltw.org/ (1.2.3 Apple Avalanche)
+- Apple image (`apple.gif`) –https://my.pltw.org/ (1.2.3 Apple Avalanche)
+
