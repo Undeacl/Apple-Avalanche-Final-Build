@@ -1,17 +1,18 @@
-Apple Fall Game
+# 🍎 Falling Apples Typing Game
 
-A fun and interactive Python game where apples fall from the screen, and you have to press the corresponding letter key to make them fall. The game resets once all apples have fallen.
+A simple **typing game** built with Python’s `turtle` graphics. Apples with letters drop from the top of the screen, and your goal is to type the correct letter to make the apple fall before it disappears!
 
-Overview
+---
 
-In this game, apples are randomly generated at various positions on the screen, each labeled with a letter from the alphabet (A-Z). The player presses the corresponding key on the keyboard to make the apple fall. Once all apples have fallen, the game resets and new apples appear.
+## 📖 How It Works
+- The game generates apples with random letters.
+- Each apple displays a letter (A–Z).
+- Type the corresponding letter (uppercase or lowercase) on your keyboard to make the apple fall.
+- When all apples fall, a new set of apples is generated.
 
-Features
+---
 
-Random Apple Generation: Apples are created at random positions with random sizes and associated letters.
-
-Key Press Interaction: Press the letter key (upper or lower case) to make the corresponding apple fall.
-
-Game Reset: Once all apples have fallen, the game resets and new apples are generated.
-
-Graphical Interface: Uses the Python turtle module for a simple graphical interface.
+## 🛠️ Features
+- Randomly generated apples with unique letters.
+- Interactive gameplay using **keyboard input**.
+- Resets automatically once all apples are cleared.
